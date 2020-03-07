@@ -188,8 +188,8 @@ span .m-left{
  flex: 0 0 33.33%;
  max-width: 33.33%;
  }
+
  .about-me .about-content .img img{
-   width: 100%;
    display: block;
    -webkit-transform:rotateY(180deg);
    transform: rotateY(180deg);
