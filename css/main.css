@@ -148,6 +148,14 @@ span .m-left{
 .text{
   margin-top: 0px;
 }
+.row-about{
+display: flex;
+-ms-flex-wrap: wrap;
+flex-wrap: wrap;
+margin-right: 0px;
+margin-left: 0px;
+
+}
 .about-me .about-content .text p{
   font-size: 15px;
   font-weight: 400;
