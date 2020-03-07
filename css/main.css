@@ -252,7 +252,6 @@ span .m-left{
   .skills .skills-content{
       flex: 0 0 100%;
       max-width: 100%;
-      padding-left: 30px;
     }
 
   .skills .skills-content .section-title p{
