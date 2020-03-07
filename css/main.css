@@ -11,7 +11,6 @@
 .container{
   padding: 10px 100px 0 100px;
 }
-.nav ul,
 .main-info-section{
   display: flex;
   flex-wrap: wrap;
