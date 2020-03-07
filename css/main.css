@@ -134,7 +134,7 @@ span .m-left{
   padding: 0 0 0 0px;
 }
 .about-me{
-  padding: 100px -15px;
+  padding: 100px 0px;
 }
 .about-me .section-title{
   flex: 0 0 100px;
@@ -192,7 +192,7 @@ margin-left: 0px;
   font-weight: 400;
 }
 .about-me .about-content .img{
-  padding: 10px;
+  padding: 0px;
  flex: 0 0 33.33%;
  max-width: 33.33%;
  }
