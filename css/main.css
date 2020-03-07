@@ -130,6 +130,9 @@ span .m-left{
 .text a:hover::before{
   height: 100%;
 }
+.text .col-xs-12{
+  padding: 0 0 0 0px;
+}
 .about-me{
   padding: 100px -15px;
 }
@@ -244,7 +247,7 @@ span .m-left{
       flex: 0 0 100%;
       max-width: 100%;
       padding-left: 30px;
-    } 
+    }
 
   .skills .skills-content .section-title p{
       font-size: 15px;
