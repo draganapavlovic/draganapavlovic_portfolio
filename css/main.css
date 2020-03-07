@@ -197,7 +197,8 @@ span .m-left{
  .about-me .about-content .text{
    flex:0 0 66.66%;
    max-width: 0 0 66.66%;
-   padding-left: 30px;
+   padding-left: 0px;
+
  }
  .about-me .about-content .text h4{
    font-size: 25px;
