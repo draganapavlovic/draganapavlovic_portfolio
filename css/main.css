@@ -147,15 +147,6 @@ span .m-left{
 .text{
   margin-top: 0px;
 }
-.row{
-
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
-  margin-right: -15px;
-  margin-left: -15px;
-}
 
 .about-me .about-content .text p{
   font-size: 15px;
