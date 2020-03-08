@@ -8,7 +8,8 @@
 h2{
   text-transform: uppercase;
   font-size: 28px;
-  font-weight: 600;
+  font-weight: 400;
+  text-align: center;
 }
 .html{
   scroll-behavior: smooth;
@@ -85,6 +86,12 @@ label{
   cursor: context-menu;
   text-transform:uppercase;
 }
+.row .img-text{
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 15px;
+  margin-right: 15px;
+}
 .text span{
   display: inline-block;
 }
@@ -143,6 +150,7 @@ span .m-left{
 .about-me .section-title{
   flex: 0 0 100px;
   max width: 100%;
+  margin: 20px;
 }
 .h2-about{
   text-decoration-color: #000000;
