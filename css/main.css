@@ -425,6 +425,7 @@ footer .social{
 }
 .scrollToTop:hover{
     text-decoration:none;
+    color: #000000;
 }
 #scrollToTop{
   text-decoration:none;
