@@ -194,8 +194,8 @@ span .m-left{
   font-weight: 400;
 }
 .about-me .about-content .img{
-  padding: 10px;
- flex: 0 0 33.33%;
+  padding: 0px;
+ margin-right: 5px;
  max-width: 33.33%;
  }
 
