@@ -196,7 +196,6 @@ span .m-left{
 .about-me .about-content .img{
   padding: 0px;
  margin-right: 5px;
- max-width: 33.33%;
  }
 
  .about-me .about-content .img img{
@@ -226,12 +225,12 @@ span .m-left{
   .about-me .about-content .text h6 span{
     color: #b5b1b1;
   }
-  .about-me .about-content .text .info{
+.about-me .about-content .text .info{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
   }
-  .about-me .about-content .text .info .list{
+.about-me .about-content .text .info .list{
       margin-top: 10px;
       flex: 0 0 calc(50% -15px);
       max-width: calc(50% -15px);
@@ -240,7 +239,7 @@ span .m-left{
       border-bottom: 1px solid #dee2e6;
       padding-bottom: 5px;
     }
-  .about-me .about-content .text .info .list p{
+  .about-me .about-content.text .info .list p{
       margin: 0px;
     }
   .about-me .about-content .text .info .list label{
